@@ -1,5 +1,9 @@
-title: Braden Crosson
-description: Plant Breeding • Chemistry • Engineering
+title: "Braden Crosson"
+description: "Plant Breeding • Chemistry • Engineering"
 theme: minima
-url: https://bradencrosson.com
-author: Braden Crosson
+url: "https://bradencrosson.com"   # fine even before custom domain
+author: "Braden Crosson"
+
+# Show specific pages in the top navigation
+header_pages:
+  - about.md

@@ -1,2 +1,7 @@
-# Welcome
-This is my professional portfolio framework. Updates coming on plant breeding, chemistry, and engineering projects.
+---
+layout: home
+title: Home
+---
+
+Welcome to **BradenCrosson.com** — my professional portfolio framework.
+I’m building data-driven systems across **plant breeding, chemistry, and engineering**.
