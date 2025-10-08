@@ -7,3 +7,4 @@ author: "Braden Crosson"
 # Show specific pages in the top navigation
 header_pages:
   - about.md
+  - projects.md
