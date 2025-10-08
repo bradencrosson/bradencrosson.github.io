@@ -8,3 +8,9 @@ author: "Braden Crosson"
 header_pages:
   - about.md
   - projects.md
+
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/bradencrosson" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/braden-crosson-0268a7378" }  # adjust if needed
+    - { platform: email,    user_url: "mailto:braden@bradencrosson.com" }
